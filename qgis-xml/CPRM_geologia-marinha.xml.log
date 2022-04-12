@@ -1,0 +1,118 @@
+Versão do QGIS: 3.16.16-Hannover
+Código de revisão do QGIS: f5778a89df
+Versão do Qt: 5.11.2
+Versão do GDAL: 3.1.4
+Versão do GEOS: 3.8.1-CAPI-1.13.3
+Versão do PROJ: Rel. 6.3.2, May 1st, 2020
+SLYR (community edition) versão: 4.0.0
+Algoritmo de processamento...
+Algoritmo 'Convert ESRI style to QGIS style XML' iniciando…
+Entrada de parâmetros:
+{ 'INPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Geologia_Marinha_2013\\release\\geologia_marinha.style', 'OUTPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Geologia_Marinha_2013\\release\\geologia_marinha.xml' }
+
+Importing Fill symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 45 symbols of type "Fill symbols"
+
+
+1/45: 0 a -20 m
+2/45: -20 a -50 m
+3/45: -50 a -75 m
+4/45: -75 a -100 m
+5/45: -100 a -200 m
+6/45: -200 a -300 m
+7/45: -300 a -400 m
+8/45: -400 a -500 m
+9/45: -500 a -600 m
+10/45: -600 a -700 m
+11/45: -700 a -800 m
+12/45: -800 a -900 m
+13/45: -900 a -1000 m
+14/45: -1000 a -1100 m
+15/45: -1100 a -1200 m
+16/45: -1200 a -1300 m
+17/45: -1300 a -1400 m
+18/45: -1400 a -1500 m
+19/45: -1500 a -1600 m
+20/45: -1600 a -1700 m
+21/45: -1700 a -1800 m
+22/45: -1800 a -1900 m
+23/45: -1900 a -2000 m
+24/45: -2000 a -2250 m
+25/45: -2250 a -2500 m
+26/45: -2500 a -2750 m
+27/45: -2750 a -3000 m
+28/45: -3000 a -3250 m
+29/45: -3250 a -3500 m
+30/45: -3500 a -3750 m
+31/45: -3750 a -4000 m
+32/45: -4000 a -4250 m
+33/45: -4250 a -4500 m
+34/45: -4500 a -4750 m
+35/45: -4750 a -5000 m
+36/45: -5000 a -5250 m
+37/45: -5250 a -5500 m
+38/45: -5500 a -5750 m
+39/45: -5750 a -6000 m
+40/45: -6000 a -6250 m
+41/45: -6250 a -6500 m
+42/45: -6500 a -6750 m
+43/45: ILHAS_IMAGEM_GEOCOVER_SIRGAS_2000
+44/45: LAJES_CARTA_NAUTICA_SIRGAS_2000
+45/45: RECIFES_CARTA_NAUTICA_SIRGAS_2000
+Importing Line symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 2 symbols of type "Line symbols"
+
+
+1/2: BRASIL_LIMITES_SIRGAS_2000
+2/2: LINHA_DE_COSTA_IMAGEM_GEOCOVER_SIRGAS_2000
+Importing Marker symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Marker symbols"
+
+
+Importing Color ramps from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Color ramps"
+
+
+Importing Line Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Line Patches"
+
+
+Importing Area Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Area Patches"
+
+
+Importing Text Symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Text Symbols"
+
+
+Importing Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Labels"
+
+
+Importing Maplex Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Geologia_Marinha_2013\release\geologia_marinha.style
+Found 0 symbols of type "Maplex Labels"
+
+
+Tarefa executada em 3.28 segundos
+Resultados:
+{'AREA_PATCH_COUNT': 0,
+'COLOR_RAMP_COUNT': 0,
+'FILL_SYMBOL_COUNT': 45,
+'LABEL_SETTINGS_COUNT': 0,
+'LINE_PATCH_COUNT': 0,
+'LINE_SYMBOL_COUNT': 2,
+'MARKER_SYMBOL_COUNT': 0,
+'OUTPUT': 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Geologia_Marinha_2013\\release\\geologia_marinha.xml',
+'REPORT': '',
+'TEXT_FORMAT_COUNT': 0,
+'UNREADABLE_AREA_PATCHES': 0,
+'UNREADABLE_COLOR_RAMPS': 0,
+'UNREADABLE_FILL_SYMBOLS': 0,
+'UNREADABLE_LABEL_SETTINGS': 0,
+'UNREADABLE_LINE_PATCHES': 0,
+'UNREADABLE_LINE_SYMBOLS': 0,
+'UNREADABLE_MARKER_SYMBOLS': 0,
+'UNREADABLE_TEXT_FORMATS': 0}
+
+Carregando camada resultante
+Algoritmo 'Convert ESRI style to QGIS style XML' finalizado
